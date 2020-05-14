@@ -1,2 +1,2 @@
 # RegistrationWebForm
-Repository for Registration Web Form web application project in asp.net
+Repository for Registration Web Form web application project using asp.net (JAC course)
